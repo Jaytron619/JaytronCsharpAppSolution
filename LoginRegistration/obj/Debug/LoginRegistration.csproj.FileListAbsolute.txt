@@ -1,0 +1,15 @@
+D:\JAYprojects\AppDesign\JaytronCsharpAppSolution\LoginRegistration\bin\Debug\LoginRegistration.exe.config
+D:\JAYprojects\AppDesign\JaytronCsharpAppSolution\LoginRegistration\bin\Debug\LoginRegistration.exe
+D:\JAYprojects\AppDesign\JaytronCsharpAppSolution\LoginRegistration\bin\Debug\LoginRegistration.pdb
+D:\JAYprojects\AppDesign\JaytronCsharpAppSolution\LoginRegistration\obj\Debug\LoginRegistration.csprojAssemblyReference.cache
+D:\JAYprojects\AppDesign\JaytronCsharpAppSolution\LoginRegistration\obj\Debug\LoginRegistration.Properties.Resources.resources
+D:\JAYprojects\AppDesign\JaytronCsharpAppSolution\LoginRegistration\obj\Debug\LoginRegistration.csproj.GenerateResource.cache
+D:\JAYprojects\AppDesign\JaytronCsharpAppSolution\LoginRegistration\obj\Debug\LoginRegistration.csproj.CopyComplete
+D:\JAYprojects\AppDesign\JaytronCsharpAppSolution\LoginRegistration\obj\Debug\LoginRegistration.exe
+D:\JAYprojects\AppDesign\JaytronCsharpAppSolution\LoginRegistration\obj\Debug\LoginRegistration.pdb
+D:\JAYprojects\AppDesign\JaytronCsharpAppSolution\LoginRegistration\obj\Debug\LoginRegistration.csproj.CoreCompileInputs.cache
+D:\JAYprojects\AppDesign\JaytronCsharpAppSolution\LoginRegistration\obj\Debug\LoginRegistration.MainForm.resources
+D:\JAYprojects\AppDesign\JaytronCsharpAppSolution\LoginRegistration\obj\Debug\LoginRegistration.UserControl1.resources
+D:\JAYprojects\AppDesign\JaytronCsharpAppSolution\LoginRegistration\bin\Debug\Guna.UI2.dll
+D:\JAYprojects\AppDesign\JaytronCsharpAppSolution\LoginRegistration\obj\Debug\LoginRegistration.SignupForm.resources
+D:\JAYprojects\AppDesign\JaytronCsharpAppSolution\LoginRegistration\obj\Debug\LoginRegistration.LoginForm.resources
